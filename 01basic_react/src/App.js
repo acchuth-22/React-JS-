@@ -1,9 +1,13 @@
 
-
+import Tea from './tea'
 
 function App() {
   return (
-   <h1>Hello World</h1>
+    <>
+    <Tea/>
+    <h1>Hello World</h1>
+    </>
+   
 
   );
 }
